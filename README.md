@@ -1,7 +1,8 @@
 <h1 align="center">👋 David Fleury</h1>
 <h3 align="center">Développeur Web Full Stack</h3>
+<h3 align="center">Etudiant à 42 Perpignan</h3>
 
-<h3 align="left">Mon profil Linkedin:
+<h3 align="left">Retrouvez moi sur Linkedin:
 	<a href="https://linkedin.com/in/fleury-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
 </h3>
 
