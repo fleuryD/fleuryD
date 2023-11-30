@@ -2,8 +2,10 @@
 <h3 align="center">Développeur Web Full Stack</h3>
 <h3 align="center">Etudiant à 42 Perpignan</h3>
 
-<h3 align="left">Retrouvez moi sur Linkedin:
-	<a href="https://linkedin.com/in/fleury-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a>
+<h3 align="left">Retrouvez moi sur Linkedin
+	<a href="https://linkedin.com/in/fleury-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="20" width="30" /></a> 
+	ou sur l'intra 42 : 
+	<a href="https://profile.intra.42.fr/users/dfleury/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="linkedin_username" height="40" width="40" /></a>
 </h3>
 
 <table>
