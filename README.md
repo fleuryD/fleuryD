@@ -1,4 +1,4 @@
-<h1 align="center">👋 David Fleury</h1>
+<h1 align="center">David Fleury</h1>
 <h2 align="center">Développeur Full Stack</h2>
 <h3 align="center">Etudiant à 42 Perpignan <a href="https://profile.intra.42.fr/users/dfleury/" title="Retrouvez moi sur l'intra 42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="linkedin_username" height="40" width="40" /></a></h3>
 
