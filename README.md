@@ -1,14 +1,13 @@
 <h1 align="center">👋 David Fleury</h1>
-<h3 align="center">Développeur Web Full Stack</h3>
-<h3 align="center">Etudiant à 42 Perpignan</h3>
+<h2 align="center">Développeur Full Stack</h2>
+<h3 align="center">Etudiant à 42 Perpignan <a href="https://profile.intra.42.fr/users/dfleury/" title="Retrouvez moi sur l'intra 42" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="linkedin_username" height="40" width="40" /></a></h3>
 
-<h3 align="left">Retrouvez moi sur Linkedin
-	<a href="https://linkedin.com/in/fleury-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="25" width="30" /></a> 
-	&nbsp;&nbsp; ou sur l'intra de l'école 42 : 
-	<a href="https://profile.intra.42.fr/users/dfleury/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" alt="linkedin_username" height="40" width="40" /></a>
+<h3 align="center">
+	<a href="https://linkedin.com/in/fleury-david/" title="Retrouvez moi sur Linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_username" height="25" width="30" /></a>
+
 </h3>
 
-<table>
+<table align="center">
   <tr>
 	<td valign="center">
 		<h3 align="left">Front:</h3>
@@ -37,7 +36,7 @@
 	</tr>
 	<tr>
 		<td valign="center"  colspan=2>
-			<h3 align="left">X-tra:</h3>
+			<h3 align="left">Autres:</h3>
 			<p align="left">
 				<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 				<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
