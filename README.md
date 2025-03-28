@@ -11,9 +11,9 @@
 
 [![dfleury's 42 stats](https://badge.mediaplus.ma/darkblue/dfleury)](https://github.com/oakoudad/badge42)
 
-## 🛠️ Compétences
+## Compétences
 
-### 🌐 Frontend
+### Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
 </p>
 
-### 🖥️ Backend
+### Backend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -37,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
 
-### 🔧 Autres Technologies
+### Autres Technologies
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -51,11 +51,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
 </p>
 
----
+## Statistiques
 
-## 📊 Statistiques
+![fleuryD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fleuryD&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### Stats
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fleuryd&label=Profile%20views&color=0e75b6&style=flat" alt="fleuryd" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fleuryd&" alt="fleuryd" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=fleuryd&label=Profile%20views&color=0e75b6&style=flat" alt="fleuryd" /></p>
